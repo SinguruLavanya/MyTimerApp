@@ -5,6 +5,9 @@ npm-debug.log
 yarn-error.log
 
 vendor/ 
+android/.gradle
+android/app
+android/build
 
 # CocoaPods
 /ios/Pods/
